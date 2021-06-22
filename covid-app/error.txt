@@ -8,6 +8,8 @@ then run the following commands,
 >npm install
 // for creating package.json file
 
+>npm install -g npx
+
 >npm install create-react-app -g
 >npm install create-react-app 
 
