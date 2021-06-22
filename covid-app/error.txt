@@ -1,0 +1,17 @@
+If any error occurs.......
+
+Run cmd as an administator
+navigate to the project folder
+then run the following commands,
+
+>npm install -g
+>npm install
+// for creating package.json file
+
+>npm install create-react-app -g
+>npm install create-react-app 
+
+>npx create-react-app my-app
+
+>cd my-app
+>npm start
