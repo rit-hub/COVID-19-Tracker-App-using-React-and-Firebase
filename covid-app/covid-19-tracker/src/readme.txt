@@ -18,3 +18,6 @@
 {/* <MenuItem value="worldwide">worldwide</MenuItem>
             <MenuItem value="worldwide">abc1</MenuItem> */}
             {/* loop through all the countries and show a dropdown */}
+
+rfce -----> react functional component
+flex: ------------------> by default it put its childrens from colomn into a row
